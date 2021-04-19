@@ -1,1 +1,2 @@
-# C21-BOUNCING-ALGORITHM
+# collisionAlgorithm
+Algorithm to detect collision between two objects
